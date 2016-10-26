@@ -1,0 +1,17 @@
+Help on package polls:
+
+NNAAMMEE
+    polls
+
+FFIILLEE
+    /home/chentaco/Documentos/IV/encuestasIV/mysite/polls/__init__.py
+
+PPAACCKKAAGGEE  CCOONNTTEENNTTSS
+    admin
+    apps
+    migrations (package)
+    models
+    tests
+    urls
+    views
+
