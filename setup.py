@@ -8,7 +8,7 @@ setup(name='encuestasIV',
 	author_email='chentaco@correo.ugr.es',
 	licence='GNU GENERAL PUBLIC LICENSE',
 	packages=['encuestasIV'],
-	install requires=[
+	install_requires=[
 		'django'
 	],
 	zip_safe=False)
